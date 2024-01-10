@@ -1,0 +1,25 @@
+body
+{
+    font-size: 30px;
+    font-family: sans-serif;
+    
+     
+}
+h1{
+    font-size: 55px;
+}
+
+button
+{
+    font-size: 20px;
+}
+
+button:hover
+{
+    
+        background-color: gold;
+        transition: background-color 0.5s;
+}
+input{
+    font-size: 30px;
+}
